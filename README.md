@@ -1,6 +1,12 @@
-# ComfyUI-Lighting-Assistant
+<img width="1919" height="1017" alt="QQ20260623-185841" src="https://github.com/user-attachments/assets/94b8fde5-41b7-4ecd-bcc9-e29038184436" /># ComfyUI-Lighting-Assistant
 
 基于 sd-webui-lighting-assistant 打光辅助插件移植的 ComfyUI 版本，提供专业的打光关键词生成和图片分析功能。
+
+<img width="1025" height="758" alt="QQ20260623-185946" src="https://github.com/user-attachments/assets/d0aaf97c-97ea-434d-aca2-0be6bf50dde8" />
+<img width="843" height="556" alt="QQ20260623-185938" src="https://github.com/user-attachments/assets/0cd0126b-2ea1-4ee7-b687-2a1134f0d19f" />
+<img width="1025" height="758" alt="QQ20260623-185946" src="https://github.com/user-attachments/assets/4d298d3d-dd63-426d-9d5f-d96644c95e8b" />
+
+
 
 ## 功能特性
 
