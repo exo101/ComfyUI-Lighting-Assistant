@@ -116,10 +116,10 @@
 - Python 3.10+
 - llama.cpp 支持 vision 的模型
 
-## 许可证
-
-MIT License
-
-## 致谢
 
 本插件基于 [sd-webui-lighting-assistant](https://github.com/ototadana/sd-webui-lighting-assistant) 项目的打光关键词数据。
+视频教程使用
+https://www.bilibili.com/video/BV18hj26xE6Q/?vd_source=343e49b703fb5b4137cd6c1987846f37#reply116799018374239
+
+<img width="1284" height="1547" alt="qq群ai交流群" src="https://github.com/user-attachments/assets/dd483666-ae16-4a56-91a7-f6256422e8ee" />
+
